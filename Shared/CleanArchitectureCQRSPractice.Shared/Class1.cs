@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CleanArchitectureCQRSPractice.Api
+namespace CleanArchitectureCQRSPractice.Shared
 {
     public class Class1
     {
